@@ -1,4 +1,4 @@
-;(function($, window, undefined) {
+;(function($) {
   var plugin = $.fn.gantt.prototype;
 	
 
@@ -36,5 +36,5 @@
         
         
 
-}(jQuery, window));
+}(jQuery));
 
