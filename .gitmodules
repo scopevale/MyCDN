@@ -1,0 +1,3 @@
+[submodule "jqgantt"]
+	path = jqgantt
+	url = git://github.com/mbielanczuk/jQuery.Gantt.git
