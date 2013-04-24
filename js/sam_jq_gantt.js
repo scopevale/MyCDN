@@ -17,14 +17,14 @@
 	// extend existing functionality of the jquery-gantt plugin
 	$.extend(true, plugin, {
         
-            var core = {
+//            var core = {
 
 		create: function(element) {
 		    plugin.core.create.apply(this, arguments);
 		    
 		    alert('were in the extension now!');
 		}
-	    };
+//	    };
         });
         
         
